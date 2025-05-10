@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\apiDeploy_Using_Docker",
+    "\\apiDeploy_Using_Docker\\Controllers",
+    "\\apiDeploy_Using_Docker\\Data",
+    "\\apiDeploy_Using_Docker\\Dockerfiles"
+  ],
+  "SelectedNode": "\\apiDeploy_Using_Docker\\Controllers\\studentController.cs",
+  "PreviewInSolutionExplorer": false
+}

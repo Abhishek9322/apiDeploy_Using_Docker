@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "b2+tVzffpUfnBn6kVc6FdJ06SvXIdHFNP/G4kUW5E6o=",
+  "Source": "apiDeploy_Using_Docker",
+  "BasePath": "_content/apiDeploy_Using_Docker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
